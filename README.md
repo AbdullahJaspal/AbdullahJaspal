@@ -10,6 +10,20 @@ Welcome to my GitHub profile! I'm a passionate React Native developer who loves 
 - 🕹️ Game development is my secret passion; stay tuned for my exciting game projects.
 
 
+## 🛠️ Languages and Tools
+
+- **JavaScript**
+- **React Native**
+- **HTML & CSS**
+- **Game Development (Unity, Unreal Engine)**
+- **Version Control (Git)**
+- **Node.js**
+- **Visual Studio Code**
+- **Xcode**
+- **Adobe XD**
+- **Figma**
+- **Postman**
+
 ## 🌟 Let's Connect
 
 I believe in the power of collaboration and learning from each other. Let's connect, share ideas, and build something awesome together!
