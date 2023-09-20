@@ -23,12 +23,6 @@ Welcome to my GitHub profile! I'm a passionate React Native developer who loves 
   <a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="HTML & CSS" width="40" height="40"/>
   </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://unity.com/profiles/unity3d/themes/unity/images/company/brand/logos/primary/black/png/unity-logo-black.png" alt="Unity" width="40" height="40"/>
-  </a>
-  <a href="https://www.unrealengine.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.unrealengine.com/Assets/Images/UnrealEngine/icon.png" alt="Unreal Engine" width="40" height="40"/>
-  </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
@@ -41,9 +35,6 @@ Welcome to my GitHub profile! I'm a passionate React Native developer who loves 
   <a href="https://developer.apple.com/xcode/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="Xcode" width="40" height="40"/>
   </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_xd/adobe_xd-icon.svg" alt="Adobe XD" width="40" height="40"/>
-  </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   </a>
@@ -54,8 +45,9 @@ Welcome to my GitHub profile! I'm a passionate React Native developer who loves 
 
 
 ### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AbdullahJaspal&theme=dark&background=000000)](https://git.io/streak-stats)
 
-https://github-readme-streak-stats.herokuapp.com/?user=AbdullahJaspal
+
 
 ## 🌟 Let's Connect
 
