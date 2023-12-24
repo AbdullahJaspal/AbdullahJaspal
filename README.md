@@ -56,7 +56,7 @@ I believe in the power of collaboration and learning from each other. Let's conn
 -  You can reach me via [email](mailto:abdullahafzal4444@gmail.com) or [LinkedIn](www.linkedin.com/in/abdullah-jaspal-81a0a0207).
 
 
-##. Let's Code and Game On!
+## Let's Code and Game On!
 
 Thanks for stopping by! Feel free to explore my repositories, fork, star, and collaborate on exciting projects. Together, we can push the boundaries of React Native, JavaScript, and gaming.
 
